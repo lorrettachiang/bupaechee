@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meeghohca.architekturbuero-peter.de/sitemap.xml
